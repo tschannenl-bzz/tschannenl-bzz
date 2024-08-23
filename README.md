@@ -18,10 +18,6 @@
 ! is css really a language??
 + honestly, you should try figma!
 # 📖 IMS Hottingen
-
-
-
-
 ```
 
 --- 
