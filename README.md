@@ -1,23 +1,20 @@
 <img align="center" src="https://github.com/tschannenl-bzz/tschannenl-bzz/blob/main/Profile%20banner%20-%202.jpg"/>
  <h4 align="center">Welcome, I'm Léontine Tschannen</h4>
 
-
-
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tschannenl-bzz&color=green" alt="Profile Views" />
 </p>
 
-
 <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHViOHZtaHZidnpha3gwZWl1cmp0OWg5bXI4dzF3enNkcXgxaW9tZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d2Sor6kd4bug3J3Srk/giphy.gif" height="170"/>
 
 ```diff
-
-
 @@programming student who likes to draw@@
 - living in zurich, switzerland.
 ! is css really a language??
 + honestly, you should try figma!
 # 📖 IMS Hottingen
+
+currently learning C#
 ```
 
 --- 
